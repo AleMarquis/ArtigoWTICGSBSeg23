@@ -1,0 +1,1 @@
+# ArtigoWTICGSeg23
